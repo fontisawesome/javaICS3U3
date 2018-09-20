@@ -1,4 +1,9 @@
-// The "ChangeCalculator" class.
+/*
+Andy Cai and Jae Park
+Mr Rosen
+09/19/18
+Calculates exact change from amount paid and cost
+*/
 import java.awt.*;
 import hsa.Console;
 
